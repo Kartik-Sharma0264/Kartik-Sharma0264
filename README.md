@@ -1,31 +1,278 @@
-<h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
-<h3 align="center">BTech student building my path toward AI/ML Engineering</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-sharma0264&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-sharma0264" /> </p>
+# 👋 Hi, I'm Kartik Sharma
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-sharma0264" alt="kartik-sharma0264" /></a> </p>
+### B.Tech CSE Student • Aspiring AI/ML Engineer • Developer
 
-- 🔭 I’m currently working on **Real life problem identifications**
-
-- 🌱 I’m currently learning **C++ and Ai framework**
-
-- 🤝 I’m looking for help with **Ai/Ml project work ideas**
-
-- 💬 Ask me about **Web development , Python**
-
-- 📫 How to reach me **kartik.shar0786@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartik-sharma-8212a1398/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-sharma-8212a1398/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kartiksharma0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartiksharma0786" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Kartik-Sharma0264">
+    <img src="https://komarev.com/ghpvc/?username=Kartik-Sharma0264&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Kartik-Sharma0264?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kartik-Sharma0264?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Kartik-Sharma0264?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Kartik-Sharma0264?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/kartik-sharma-8212a1398/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartik%20Sharma-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/kartiksharma0786/">
+    <img src="https://img.shields.io/badge/LeetCode-Kartik%20Sharma-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik-sharma0264&show_icons=true&locale=en&layout=compact" alt="kartik-sharma0264" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-sharma0264&show_icons=true&locale=en" alt="kartik-sharma0264" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-sharma0264&" alt="kartik-sharma0264" /></p>
+## 🚀 About Me
+
+```text
+🎓 B.Tech Computer Science & Engineering Student
+🤖 Aspiring AI/ML Engineer
+💻 Building projects to solve real-world problems
+🐍 Working with Python and exploring AI/ML
+⚡ Learning C++ and strengthening DSA
+🌐 Interested in Web Development
+📊 Exploring Data, SQL and Machine Learning
+```
+
+I enjoy turning ideas into practical projects and continuously improving my problem-solving and development skills.
+
+My current focus is on building a strong foundation in **Data Structures & Algorithms, Python, Machine Learning, SQL and AI-powered applications**.
+
+---
+
+## 🔭 What I'm Currently Working On
+
+* 🧠 Exploring **Artificial Intelligence & Machine Learning**
+* 💻 Improving **C++ and DSA**
+* 🐍 Building projects with **Python**
+* 📊 Learning **Data Analysis and Machine Learning**
+* 🌐 Developing practical **web-based projects**
+* 💡 Identifying and solving **real-world problems**
+* 🚀 Building projects for my **AI/ML portfolio**
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,postgresql,git,github,html,css,js" />
+
+</p>
+
+### My Learning Path
+
+```text
+C++ + DSA
+    ↓
+Python
+    ↓
+NumPy + Pandas
+    ↓
+Data Analysis
+    ↓
+SQL
+    ↓
+Machine Learning
+    ↓
+Deep Learning
+    ↓
+AI Applications
+    ↓
+AI/ML Engineering
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 📊 Data & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kartik-Sharma0264&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Sharma0264&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Kartik-Sharma0264&hide_border=true&theme=transparent" alt="Kartik Sharma GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-Sharma0264&theme=github-compact&hide_border=true&area=true" alt="Kartik Sharma GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kartik-Sharma0264&theme=flat&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Kartik-Sharma0264">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartik-Sharma0264&repo=YOUR_PROJECT_1&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Kartik-Sharma0264">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartik-Sharma0264&repo=YOUR_PROJECT_2&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+### 💡 Projects I'm Building
+
+| Project              | Description                                                                     | Tech                    |
+| -------------------- | ------------------------------------------------------------------------------- | ----------------------- |
+| 🏫 Smart Campus Tool | Campus utility platform for navigation, attendance, CGPA and student assistance | Python • Web • AI       |
+| 🤖 AI/ML Projects    | Practical machine-learning projects solving real-world problems                 | Python • ML             |
+| 💻 DSA Practice      | Consistent problem-solving and algorithm practice                               | C++                     |
+| 🌐 Web Projects      | Interactive websites and practical web applications                             | HTML • CSS • JavaScript |
+
+> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names once you have your best projects ready.
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/kartiksharma0786/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://github.com/Kartik-Sharma0264">
+<img src="https://img.shields.io/badge/GitHub-Build%20Projects-black?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 🎯 2026–2029 Goals
+
+```text
+☐ Master C++ and Data Structures & Algorithms
+☐ Build strong Python fundamentals
+☐ Learn NumPy, Pandas and data visualization
+☐ Become comfortable with SQL & databases
+☐ Build Machine Learning projects
+☐ Learn Deep Learning
+☐ Build AI-powered applications
+☐ Participate in Hackathons
+☐ Contribute to Open Source
+☐ Build a strong GitHub portfolio
+☐ Get an AI/ML internship
+☐ Become an AI/ML Engineer
+```
+
+---
+
+# 📚 What I Like
+
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+📊 Data & Analytics
+💻 Problem Solving
+🌐 Web Development
+🐍 Python
+⚡ C++
+🗄️ SQL
+🚀 Building Real-World Projects
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:kartik.shar0786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/kartik-sharma-8212a1398/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/kartiksharma0786/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://github.com/Kartik-Sharma0264">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 "Learning today. Building tomorrow."
+
+⭐ If you find my projects useful, consider giving them a star!
+
+</div>
